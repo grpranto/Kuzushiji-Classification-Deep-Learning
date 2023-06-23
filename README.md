@@ -60,10 +60,6 @@ Example commands:
 
 The used and trained models can be found [here](https://drive.google.com/drive/folders/1EqbCbd32bO3biHrdts9aO1wVDTHMXmib?usp=sharing).
 
-## Github Link
-
-The Github Link is: https://github.com/regnujAx/Deep-Learning-Kanji-Classification
-
 ## Dataset Links
 
 Kuzushiji-49, Kuzushiji-MNIST, Kuzushiji-Kanji Datasets: https://www.kaggle.com/datasets/anokas/kuzushiji
