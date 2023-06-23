@@ -1,0 +1,14 @@
+# Local folders
+*model*/
+
+# Local files
+*.h5
+*.npz
+*.png
+*.txt
+
+# Include the requirements.txt
+!requirements.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
